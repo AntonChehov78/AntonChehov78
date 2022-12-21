@@ -40,12 +40,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" width="40" height="40"/>&nbsp;
 <img src="https://migsoft.ru/upload/iblock/0d8/0d8032d6e7d0a12526457f6ba0b8c78a.JPG" title="Xmind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Yandex.Tracker_2018.svg/1200px-Logo_Yandex.Tracker_2018.svg.png" title="Yandex.Tracker" width="40" height="40"/>&nbsp;
+<img src="https://www.logolynx.com/images/logolynx/d4/d41c80ad44aa88207d3d79b5c02717c4.jpeg" title="BrowserStack" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
-Статистика
+<img src="https://static.codepre.com/uploads/1648115192.png" title="DBeaver" width="80" height="40"/>&nbsp;
+<img src="https://gitlab.com/uploads/-/system/project/avatar/16930776/postman.png" title="postman" width="40" height="40"/>&nbsp;
+<img src="https://i.ytimg.com/vi/YX1C4Bp-epQ/maxresdefault.jpg" title="BandiCam" width="100" height="60"/>&nbsp;
