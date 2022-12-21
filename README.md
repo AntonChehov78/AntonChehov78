@@ -17,24 +17,22 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> В настоящее время я изучаю курс Тестировщик-автоматизатор на Python (QAP) в онлайн-школе SkillFactory.
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Прохожу стажировку в качестве ручного тестировщика.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: В свободное время изучаю технический контент.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📄 Мой прошлый опыт работы  </a>
+   <a href="https://hh.ru/resume/7b43d088ff002877ba0039ed1f736563726574">
+    <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
+  </a>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Как связаться со мной: [email](mailto:antonbaranov@inbox.ru)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" width="40" height="40"/>&nbsp;
 <img src="https://migsoft.ru/upload/iblock/0d8/0d8032d6e7d0a12526457f6ba0b8c78a.JPG" title="Xmind" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Yandex.Tracker_2018.svg/1200px-Logo_Yandex.Tracker_2018.svg.png" title="Yandex.Tracker" width="40" height="40"/>&nbsp;
