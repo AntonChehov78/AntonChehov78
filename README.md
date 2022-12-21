@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges"align="center">
   <a href="https://vk.com/id80284002">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
