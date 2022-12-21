@@ -5,10 +5,10 @@
   <a href="https://vk.com/id80284002">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   <a href="https://hh.ru/resume/7b43d088ff002877ba0039ed1f736563726574">
+    <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100001524171848">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
