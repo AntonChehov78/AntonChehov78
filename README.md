@@ -13,9 +13,6 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-AntonChehov78&style=flat-square&color=grey" alt=""/>
-  </div>
-<div align="center">
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -50,3 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonChehov78&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-AntonChehov78&style=flat-square&color=grey" alt=""/>
+  </div>
