@@ -46,3 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://static.codepre.com/uploads/1648115192.png" title="DBeaver" width="80" height="40"/>&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/16930776/postman.png" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://i.ytimg.com/vi/YX1C4Bp-epQ/maxresdefault.jpg" title="BandiCam" width="100" height="60"/>&nbsp;
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonChehov7&theme=dark&background=000000)](https://git.io/streak-stats)
