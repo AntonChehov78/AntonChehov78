@@ -5,7 +5,7 @@
   <a href="https://vk.com/id80284002">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-   <a href="https://hh.ru/resume/7b43d088ff002877ba0039ed1f736563726574">
+   <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
     <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100001524171848">
@@ -24,7 +24,7 @@
 - :seedling: В свободное время изучаю технический контент.
 
 - 📄 Мой прошлый опыт работы  </a>
-   <a href="https://hh.ru/resume/7b43d088ff002877ba0039ed1f736563726574">
+   <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
     <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
 
