@@ -40,7 +40,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://static.codepre.com/uploads/1648115192.png" title="DBeaver" width="80" height="40"/>&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/16930776/postman.png" title="postman" width="40" height="40"/>&nbsp;
-<img src="https://i.ytimg.com/vi/YX1C4Bp-epQ/maxresdefault.jpg" title="BandiCam" width="100" height="60"/>&nbsp;
+<img src="https://logos-download.com/wp-content/uploads/2021/01/Swagger_Logo.png" title="postman" width="40" height="40"/>&nbsp;
+<img src="https://teremokgames.com/common/img/logoPairwise.png" width="110" height="35"/>&nbsp;
+<img src="https://www.cellsoftware.co.uk/wp-content/uploads/2020/12/csw_testraiil.jpg" width="100" height="45"/>&nbsp;
+<img src="https://avatars.mds.yandex.net/i?id=1179e99fa60c4ef443bab7fab34c97cc8fc00e78-5233398-images-thumbs&n=13" title="BandiCam" width="50" height="50"/>&nbsp;
+
 ---
 
 ### :fire: My Stats :
