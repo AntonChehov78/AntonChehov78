@@ -6,7 +6,10 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
    <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
-    <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
+    <img src="https://img.shields.io/badge/hh-red?logo=HeadHunter&logoColor=white&style=for-the-badge" alt="hh Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/antonchehov78">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100001524171848">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
