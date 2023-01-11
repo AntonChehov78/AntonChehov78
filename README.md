@@ -30,6 +30,8 @@
    <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
     <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
+  
+- :file_folder: Примеры моей тестовой документации: [:file_folder:](https://disk.yandex.ru/d/Ate545qmvsnfzQ)
 
 - :mailbox:Как связаться со мной: [email](mailto:antonbaranov@inbox.ru)
 
