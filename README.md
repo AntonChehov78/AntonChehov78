@@ -33,7 +33,7 @@
   
 - :file_folder: Примеры моей тестовой документации: [:file_folder:](https://disk.yandex.ru/d/Ate545qmvsnfzQ)
 
-- :mailbox:Как связаться со мной: [email](mailto:antonbaranov@inbox.ru)
+- :mailbox:Как связаться со мной: [:e-mail:](mailto:antonbaranov@inbox.ru)
 
 ---
 
