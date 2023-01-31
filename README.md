@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="100"/>
 </div>
 <div id="badges"align="center">
-  <a href="https://vk.com/id80284002">
+<!--   <a href="https://vk.com/id80284002">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
+  </a> -->
    <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
     <img src="https://img.shields.io/badge/hh-red?logo=HeadHunter&logoColor=white&style=for-the-badge" alt="hh Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/antonchehov78">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100001524171848">
+<!--   <a href="https://www.facebook.com/profile.php?id=100001524171848">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a> -->
    <a href="http://t.me/AntonBaranov78">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
