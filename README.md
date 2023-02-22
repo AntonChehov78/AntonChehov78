@@ -5,7 +5,7 @@
 <!--   <a href="https://vk.com/id80284002">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a> -->
-   <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
+   <a href="https://hh.ru/applicant/resumes/view?resume=0022494cff0bba83670039ed1f66316c623843">
     <img src="https://img.shields.io/badge/hh-red?logo=HeadHunter&logoColor=white&style=for-the-badge" alt="hh Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/antonchehov78">
@@ -29,8 +29,8 @@
 
 - :seedling: В свободное время изучаю технический контент.
 
-- 📄 Мой прошлый опыт работы  </a>
-   <a href="https://hh.ru/applicant/resumes/view?resume=2726706dff0b94a9650039ed1f6a5152734767">
+- 📄 Мой опыт работы  </a>
+   <a href="https://hh.ru/applicant/resumes/view?resume=0022494cff0bba83670039ed1f66316c623843">
     <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
   
